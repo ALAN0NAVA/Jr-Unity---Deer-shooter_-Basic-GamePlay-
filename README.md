@@ -7,7 +7,7 @@ Trata de un DeerShooter, genera animales de manera aleatoria de forma horizontal
 
 ## 🚀 Demo
 
-[¡Juega aquí en Vercel!](https://tu-url-vercel.vercel.app)
+[¡Juega aquí en Vercel!](https://deer-shooterbasic-game-play.vercel.app/)
 
 ---
 
